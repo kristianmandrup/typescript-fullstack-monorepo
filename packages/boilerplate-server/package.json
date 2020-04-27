@@ -16,7 +16,9 @@
     "@types/express": "^4.16.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "express-jwt": "^5.3.1"
+    "express-jwt": "^5.3.1",
+    "global": "^4.4.0",
+    "webpack": "^4.43.0"
   },
   "devDependencies": {
     "@types/node": "^10.14.5",
